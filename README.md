@@ -1,5 +1,4 @@
 # DataAnalysisProject
-read readme 
 
 Final-Project//
 The company "Sib" is a leading exporter of non-oil products to various countries around the world. In order to improve the company's business performance, they have hired you as a data analyst at their headquarters in Iran.
